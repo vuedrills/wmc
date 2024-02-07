@@ -285,7 +285,7 @@ export default function Page() {
 
   return (
     <>
-       <div className="mx-auto  dark:bg-slate-900 max-w-7xl px-4 sm:px-6">
+       <div className="mx-auto  dark:bg-slate-900 md:max-w-7xl md:px-4 sm:px-6">
       <BlogFeaturedHero data={featuredData} />
       </div>
 
