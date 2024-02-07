@@ -27,9 +27,14 @@ import {
   teamHome,
   testimonialsHome,
 } from '~/shared/data/pages/home.data';
+import {
+  features4Services,
+  features5Services,
+} from '~/shared/data/pages/services.data';
 import BlogCarousel from '~/components/BlogCarousel';
 import { BlogItemProps } from '~/components/blog';
 import BlogFeaturedHero from '~/components/BlogFeaturedHero';
+import Features4 from '~/components/widgets/Features4';
 
 export const metadata: Metadata = {
   title: SITE.title,
@@ -296,6 +301,8 @@ export default function Page() {
       {/* <BlogCarousel/> */}
    
       <Features {...featuresHome} />
+      <Features4 {...features4Services} />
+      <Features4 {...features5Services} />
       <Content {...contentHomeOne} />
       <Content {...contentHomeTwo} />
       <Steps {...stepsHome} />

@@ -128,7 +128,7 @@ items: [
   {
     title: 'At-home visits',
     description:
-      'Prefer to see a doctor in your own home? Appointments available 24/7 within Waterfall & Harare CBD',
+      'Prefer to see a doctor in your own home? Appointments available 24/7 within Waterfalls',
   },
 ],
   image: {
@@ -225,7 +225,7 @@ export const features5Services: FeaturesProps = {
   header: {
     title: 'Medlab',
     subtitle:
-      'Our lab team is made up of qualified pharmacists and technicians that provide safe and effective medication for all patients at WMC. .',
+      'Our lab team is made up of qualified lab technicians that provide affordable and effective diagnostic services for all patients at WMC. .',
   },
   isImageDisplayed: true,
   image: {
@@ -234,29 +234,29 @@ export const features5Services: FeaturesProps = {
   },
   items: [
     {
-      title: 'About Medlab pharmacy',
-      description: 'After your treatment or surgery, a consultant may write a prescription that will be conveniently dispensed by our onsite lab.',
+      title: 'Want to lift your performance?',
+      description: 'If you’re training for an event or keen to monitor your ﬁtness progress, a blood test is a fantastic place to start.',
       icon: IconBrandTailwind,
     },
     {
-      title: 'Ready-to-use',
-      description: 'This means that you can leave with everything you need to start your recovery at home',
+      title: 'Want to monitor a health condition?',
+      description: 'If you’re concerned or living with a disorder or illness, a blood test can be an effective way to detect or monitor an ongoing health issue.',
       icon: IconComponents,
     },
     {
-      title: 'Best Practices',
-      description: 'A lab tech will inform you on how to take your medicine correctly. They will talk through any possible side effects and give advice on managing them.',
+      title: 'Concerned about your health?',
+      description: 'If you’re concerned about fatigue, tiredness, or any other symptoms, a blood test is the most effective way of detecting underlying health issues.',
       icon: IconListCheck,
     },
     {
-      title: 'Our lab team help with',
-      description: 'Reviewing your prescription, giving you expert information',
+      title: 'Which blood test is right for you? ',
+      description: ' It isn’t always easy to detect underlying health issues. Whether you have noticed changes in how you feel or are just curious about what’s happening inside your body, we have the test for you. ',
       icon: IconRocket,
     },
     {
-      title: 'Exceptional',
+      title: 'General health ',
       description:
-        'The lab team is exceptionally knowledgeable and can give you advice and guidance on all types of medication. ',
+        'Regular blood testing is one of the most effective ways to prevent illness and maintain great general health ',
       icon: IconArrowsRightLeft,
     },
   ],
