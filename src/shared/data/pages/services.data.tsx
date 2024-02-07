@@ -220,7 +220,7 @@ export const features4Services: FeaturesProps = {
 
 export const features5Services: FeaturesProps = {
   id: 'featuresFour-on-services',
-  hasBackground: true,
+  hasBackground: false,
   columns: 2,
   header: {
     title: 'Medlab',
