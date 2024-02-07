@@ -45,8 +45,8 @@ export default function Page() {
    
   let data1: BlogItemProps = {
     id: 1,
-  date: '2019-10-25T08:10:00Z',
-  modified: "2019-10-25T08:10:00Z",
+  date: '2024-02-07T08:10:00Z',
+  modified: "2024-02-07T08:10:00Z",
   slug: "default",
   status: "default",
   link: "https://images.unsplash.com/photo-1471128466710-c26ff0d26143",
@@ -94,8 +94,8 @@ export default function Page() {
 
   let data2: BlogItemProps = {
     id: 2,
-  date: '2019-10-25T08:10:00Z',
-  modified: "2019-10-25T08:10:00Z",
+    date: '2024-02-07T08:10:00Z',
+  modified: "2024-02-07T08:10:00Z",
   slug: "default",
   status: "default",
   link: "https://images.unsplash.com/photo-1471128466710-c26ff0d26143",
@@ -142,8 +142,8 @@ export default function Page() {
 
   let data3: BlogItemProps = {
     id: 3,
-  date: '2019-10-25T08:10:00Z',
-  modified: "2019-10-25T08:10:00Z",
+    date: '2024-02-07T08:10:00Z',
+  modified: "2024-02-07T08:10:00Z",
   slug: "default",
   status: "default",
   link: "https://images.unsplash.com/photo-1471128466710-c26ff0d26143",
@@ -190,8 +190,8 @@ export default function Page() {
 
   let data4: BlogItemProps = {
     id: 4,
-  date: '2019-10-25T08:10:00Z',
-  modified: "2019-10-25T08:10:00Z",
+    date: '2024-02-07T08:10:00Z',
+  modified: "2024-02-07T08:10:00Z",
   slug: "default",
   status: "default",
   link: "https://images.unsplash.com/photo-1471128466710-c26ff0d26143",
@@ -239,7 +239,7 @@ export default function Page() {
 
   let data5: BlogItemProps = {
     id: 5,
-  date: '2019-10-25T08:10:00Z',
+    date: '2024-02-07T08:10:00Z',
   modified: "2019-10-25T08:10:00Z",
   slug: "default",
   status: "default",
@@ -300,7 +300,7 @@ export default function Page() {
      
       {/* <BlogCarousel/> */}
    
-      <Features {...featuresHome} />
+      <Features  {...featuresHome} />
       <Features4 {...features4Services} />
       <Features4 {...features5Services} />
       <Content {...contentHomeOne} />
