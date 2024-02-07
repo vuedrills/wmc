@@ -667,14 +667,14 @@ export const callToAction2Home: CallToActionProps = {
     'Join thousands of our clients who get in-depth articles (on Fridays) and hand-picked health tips (every month):',
   callToAction: {
     text: 'Doctors blog',
-    href: 'https://github.com/onwidget/tailnext',
+    href: 'h',
     icon: IconDownload,
   },
   items: [
     {
       title: 'Doctors blog',
       description: "Read Dr Maisiri's blog posts ",
-      href: 'https://github.com/onwidget/tailnext',
+      href: '/',
     },
     {
       title: 'Sisters blog',
