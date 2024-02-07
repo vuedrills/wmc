@@ -64,7 +64,7 @@ export const heroHome: HeroProps = {
   ),
   callToAction: {
     text: 'Book an Appointment',
-    href: 'https://github.com/onwidget/tailnext',
+    href: '/',
     icon: IconDownload,
     targetBlank: true,
   },
