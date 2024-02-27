@@ -38,8 +38,8 @@ import cameraBackImg from '~/assets/images/baby.jpg';
 import gasImg from '~/assets/images/gas.avif';
 import bcImg from '~/assets/images/bc.jpg';
 import bc2Img from '~/assets/images/bc2.jpg';
-import bc3Img from '~/assets/images/bc3.webp';
-import bc4Img from '~/assets/images/bc4.webp';
+import bc3Img from '~/assets/images/bc3.jpg';
+import bc4Img from '~/assets/images/bc4.jpg';
 
 // Hero data on Home page *******************
 export const heroHome: HeroProps = {
@@ -64,13 +64,13 @@ export const heroHome: HeroProps = {
   ),
   callToAction: {
     text: 'Book an Appointment',
-    href: '/',
+    href: 'https://cal.com/drmaisiri',
     icon: IconDownload,
     targetBlank: true,
   },
   callToAction2: {
     text: 'Telemedicine',
-    href: '/',
+    href: 'https://cal.com/drmaisiri/online',
   },
   image: {
     src: heroImg,
@@ -84,24 +84,24 @@ export const socialProofHome: SocialProofProps = {
   hasBackground: false,
   images: [
     {
-      link: 'https://nextjs.org/',
+      link: '',
       src: nextJsLogo,
-      alt: 'NextJs Logo',
+      alt: '',
     },
     {
-      link: 'https://react.dev/',
+      link: '',
       src: reactLogo,
-      alt: 'React Logo',
+      alt: '',
     },
     {
-      link: 'https://tailwindcss.com/',
+      link: '',
       src: tailwindCssLogo,
-      alt: 'Tailwind CSS Logo',
+      alt: '',
     },
     {
-      link: 'https://www.typescriptlang.org/',
+      link: '',
       src: typescriptLogo,
-      alt: 'Typescript Logo',
+      alt: '',
     },
   ],
 };
@@ -129,7 +129,7 @@ export const featuresHome: FeaturesProps = {
       icon: IconBrandTailwind,
       callToAction: {
         text: 'Book now',
-        href: '/',
+        href: 'https://cal.com/drmaisiri',
       },
     },
     {
@@ -139,7 +139,7 @@ export const featuresHome: FeaturesProps = {
       icon: IconComponents,
       callToAction: {
         text: 'Discover now',
-        href: '/',
+        href: 'https://cal.com/drmaisiri',
       },
     },
     {
@@ -149,7 +149,7 @@ export const featuresHome: FeaturesProps = {
       icon: IconListCheck,
       callToAction: {
         text: 'Learn more',
-        href: '/',
+        href: 'https://cal.com/drmaisiri',
       },
     },
     {
@@ -159,7 +159,7 @@ export const featuresHome: FeaturesProps = {
       icon: IconRocket,
       callToAction: {
         text: 'Discover now',
-        href: '/',
+        href: 'https://cal.com/drmaisiri',
       },
     },
     {
@@ -169,7 +169,7 @@ export const featuresHome: FeaturesProps = {
       icon: IconArrowsRightLeft,
       callToAction: {
         text: 'Learn more',
-        href: '/',
+        href: 'https://cal.com/drmaisiri',
       },
     },
     {
@@ -179,7 +179,7 @@ export const featuresHome: FeaturesProps = {
       icon: IconBulb,
       callToAction: {
         text: 'Discover now',
-        href: '/',
+        href: 'https://cal.com/drmaisiri',
       },
     },
   ],
@@ -429,7 +429,7 @@ export const pricingHome: PricingProps = {
       callToAction: {
         targetBlank: true,
         text: 'Book',
-        href: '/',
+        href: 'https://cal.com/drmaisiri',
       },
       hasRibbon: false,
      
@@ -455,7 +455,7 @@ export const pricingHome: PricingProps = {
       callToAction: {
         targetBlank: true,
         text: 'Book',
-        href: '/',
+        href: 'https://cal.com/drmaisiri',
       },
       hasRibbon: true,
       ribbonTitle: 'Popular',

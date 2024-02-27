@@ -196,7 +196,7 @@ export default function Page() {
   status: "default",
   link: "https://images.unsplash.com/photo-1471128466710-c26ff0d26143",
   title: {
-    rendered: "Our charity",
+    rendered: "Excellence in one place",
   },
   content: {
     rendered: "We proudly demonstrate our commitment to our charitable status",

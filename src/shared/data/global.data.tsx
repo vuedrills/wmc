@@ -70,7 +70,7 @@ export const headerData: HeaderProps = {
   actions: [
     {
       text: 'Book an Apppointment',
-      href: 'https://www.facebook.com/profile.php?id=61553480327095&sk=about',
+      href: 'https://cal.com/drmaisiri',
       targetBlank: true,
     },
   ],
