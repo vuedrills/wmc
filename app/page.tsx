@@ -301,11 +301,12 @@ export default function Page() {
       {/* <BlogCarousel/> */}
    
       <Features  {...featuresHome} />
+      <Content {...contentHomeTwo} />
+      <Steps {...stepsHome} />
       <Features4 {...features4Services} />
       <Features4 {...features5Services} />
       <Content {...contentHomeOne} />
-      <Content {...contentHomeTwo} />
-      <Steps {...stepsHome} />
+     
       <Testimonials {...testimonialsHome} />
       <FAQs2 {...faqs2Home} />
       {/* <Pricing {...pricingHome} /> */}
