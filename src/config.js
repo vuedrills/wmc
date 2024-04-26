@@ -1,7 +1,7 @@
 module.exports.SITE = {
   name: 'Waterfalls Medical Center',
 
-  origin: 'https://www.facebook.com/profile.php?id=61553480327095&sk=photos_by',
+  origin: 'https://waterfallsmedicalcentre.com',
   basePathname: '/',
   trailingSlash: false,
 
