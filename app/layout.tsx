@@ -22,6 +22,7 @@ export const metadata: Metadata = {
     default: SITE.title,
   },
   description: SITE.description,
+  metadataBase: new URL("https://waterfallsmedicalcentre.com/"),
 };
 
 export default function RootLayout({ children }: LayoutProps) {
