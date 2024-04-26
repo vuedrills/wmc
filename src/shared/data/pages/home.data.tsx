@@ -135,7 +135,7 @@ export const featuresHome: FeaturesProps = {
     {
       title: 'Family Planning Services',
       description:
-        "Contraceptive services, pregnancy testing and counseling, helping clients achieve pregnancy, basic infertility services, preconception health services, and STD services.",
+        "Pap smear, Intra uterine device, Jadelle, pregnancy testing and counseling, basic infertility services, preconception health services, and STD services.",
       icon: IconComponents,
       callToAction: {
         text: 'Discover now',
