@@ -299,13 +299,14 @@ export default function Page() {
    
      
       {/* <BlogCarousel/> */}
+      <Content {...contentHomeOne} />
    
       <Features  {...featuresHome} />
       <Content {...contentHomeTwo} />
       <Steps {...stepsHome} />
       <Features4 {...features4Services} />
       <Features4 {...features5Services} />
-      <Content {...contentHomeOne} />
+     
      
       <Testimonials {...testimonialsHome} />
       <FAQs2 {...faqs2Home} />
