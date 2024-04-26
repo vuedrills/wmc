@@ -305,7 +305,7 @@ export const testimonialsHome: TestimonialsProps = {
   testimonials: [
     {
       name: 'Tayla Kanengoni',
-      job: 'Marketing Manager',
+      job: '',
       testimonial: `From the moment I walked into the clinic, I was greeted with a warm and welcoming atmosphere. The clinic itself was very comfortable, which immediately put me at ease. `,
       image: {
         src: 'https://images.unsplash.com/photo-1619734086067-24bf8889ea7d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80',
@@ -315,7 +315,7 @@ export const testimonialsHome: TestimonialsProps = {
     },
     {
       name: 'Silver Moyo',
-      job: 'Senior Marketer',
+      job: '',
       testimonial: `I have been a patient on and off since 2002 and have always appreciated the efficient and professional approach of all concerned. I particularly like the friendly and genuine attitude of the staff - no synthetic smiles and high fives as in other clinics!`,
       image: {
         src: 'https://images.unsplash.com/photo-1565049786474-1dea82a8b995?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80',
@@ -325,7 +325,7 @@ export const testimonialsHome: TestimonialsProps = {
     },
     {
       name: 'Kelsey Mpofu',
-      job: 'Co-Founder & CEO',
+      job: '',
       testimonial: `Both times that I was in the London Clinic for surgery (as well as an outpatient), I found it to be well run and efficient. The staff were professional, friendly and knowledgeable.`,
       image: {
         src: 'https://images.unsplash.com/photo-1659057106920-da022cfbc0cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80',
@@ -335,7 +335,7 @@ export const testimonialsHome: TestimonialsProps = {
     },
     {
       name: 'Sarah Gara',
-      job: 'Business Owner',
+      job: '',
       testimonial: `Excellent medical care from specialists, nurses and room service. The en-suite room was clean, comfortable, spacious and calm- ideal for recuperation. There was plenty of space to have family member to stay and support`,
       image: {
         src: 'https://images.unsplash.com/photo-1572417884940-c24659be6068?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80',
@@ -345,8 +345,8 @@ export const testimonialsHome: TestimonialsProps = {
     },
     {
       name: 'Keith Nyoni',
-      job: 'Freelance Developer',
-      testimonial: `The clean code and integration with Next.js make my projects a breeze. Plus, the responsive design ensures that my clients' websites look amazing on any device. These templates have become my secret weapon for success!`,
+      job: '',
+      testimonial: `Good doctor. He is very simple and gentle in his behavior. He will give sufficient time to each patient. He studies the patient and disease meticulously. We can freely interact with the doctor.`,
       image: {
         src: 'https://images.unsplash.com/photo-1694287877106-ee22f764aef1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80',
         alt: 'Keith Young',
@@ -383,14 +383,14 @@ export const faqs2Home: FAQsProps = {
     },
     {
       title: "I have issues speaking over the phone or cannot travel, what can I do?",
-      description: `Thanks to our partnership with Doctorcall, we are able to offer at-home GP appointments within London. This service is also available 24/7, 7 days a week – so you never have to worry about getting your concerns addressed.`,
+      description: `Thanks to our partnership with Doctorcall, we are able to offer at-home GP appointments within Waterfalls. This service is also available 24/7, 7 days a week – so you never have to worry about getting your concerns addressed.`,
     },
     {
       title: "Can a GP prescribe me medications over the phone and how do I pick them up?",
       description: `All our GPs can prescribe medication and treatment options. We offer hassle-free e-prescriptions which are available immediately and can be collected at most local pharmacies.`,
     },
     {
-      title: "What are the benefits of being referred to The London Clinic for diagnostics or treatment?",
+      title: "What are the benefits of being referred to The Waterfalls Medical Centre for diagnostics or treatment?",
       description: `The WMC boasts a world-class team of expert clinicians. With rapid diagnostics, specialist consultations and tailored treatment options, we’ll help you find out what’s wrong quickly, to get you feeling better sooner.`,
     },
   
